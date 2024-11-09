@@ -8,7 +8,7 @@ I have Completed my B.tech in Computer science.
 
 🤝 I’m looking for job role Python full stack developer
 
-💬 Ask me about Python, Django, HTML5, CSS3, JavaScript and React JS.
+💬 Ask me about Python, Django, SQL, HTML5, CSS3, JavaScript and React JS.
 
 📫 How to reach me rajnishkumar81145@gmail.com
 
