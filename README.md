@@ -1,4 +1,6 @@
-# manage
+# About me
 This is my first repository.
 <br>
-Author - Rajnish Sharma
+Rajnish kumar Sharma
+I have Completed my B.tech in Computer science 
+I'm Python full stack developer
