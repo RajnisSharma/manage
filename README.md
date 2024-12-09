@@ -22,5 +22,5 @@ I have Completed my B.tech in Computer science.
 10. git remote add origin git@github.com:RajnisSharma/Python-API.git
 11. git pull origin main
 12. git pull --rebase origin main
-    git push origin main
-13. 
+13. git push origin main
+14. 
